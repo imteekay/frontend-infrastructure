@@ -69,3 +69,4 @@
 - [JavaScript Modules: A Brief History](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history/#:~:text=Before%20modules,import%20into%20other%20JavaScript%20code.)
 - [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [V8 JavaScript modules](https://v8.dev/features/modules)
+- [State of Modules in JavaScript](https://www.sitepen.com/blog/state-of-modules-in-javascript)
