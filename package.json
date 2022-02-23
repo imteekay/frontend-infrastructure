@@ -1,0 +1,9 @@
+{
+  "name": "build-tools",
+  "scripts": {
+    "dev:simple": "http-server simple --port 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
