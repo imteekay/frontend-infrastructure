@@ -50,3 +50,15 @@
 - [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
 - [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
 - [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
+
+## Resources
+
+- [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://www.youtube.com/watch?v=qJWALEoGge4&list=TLPQMDYwMTIwMjK_dvV037lu7g&index=2&ab_channel=freeCodeCamp.org)
+- [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc&list=TLPQMDYwMTIwMjK_dvV037lu7g&index=1&ab_channel=freeCodeCamp.org)
+- [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
+- [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
+- [History of Web Development: JavaScript Modules](https://lihautan.com/javascript-modules/)
+- [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
+- [JavaScript Modules: A Brief History](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history/#:~:text=Before%20modules,import%20into%20other%20JavaScript%20code.)
+- [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [V8 JavaScript modules](https://v8.dev/features/modules)
