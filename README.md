@@ -7,6 +7,7 @@
 - Enhance developer productivity by improving the tooling setup - linting, unit and end to end tests alongside continuous integration and continuous delivery.
 - The frontend infrastructure team strives to provide product teams with the tools and capabilities to efficiently build great user experiences. We shape the architecture of the frontend across the company. We make platform-wide changes and upgrade the entire codebase along the way with codemods.
 - A team that designs, builds, evolves, and maintains the foundational frontend ecosystem that enables web development at the company
+- Improve our frontend frameworks and systems in this modern architecture.
 
 ## Skills
 
@@ -41,6 +42,9 @@
 - Build tooling to provide teams with visibility into their test coverage and frontend performance
 - Improve end-user experience by building infrastructure to support UX consistency across products
 - The infrastructure spans from a Mono Repo Platform, Reusable infra and low-level constructs, reusable components, design system, build, test and deploy pipelines, CI/CD, and soon to become the backend for the frontend (Node base) infrastructure.
+- Understand developer pain points and common questions in frontend development, and aim to improve or answer them.
+- Experience optimizing the client-side performance of web applications
+- Experience working with large scale codebases and systems, particularly web applications and frontend architecture.
 
 ## Jobs
 
@@ -50,6 +54,7 @@
 - [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
 - [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
 - [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
+- [Quora - Senior Software Engineer - Frontend Platform](https://boards.greenhouse.io/quora/jobs/5880027002)
 
 ## Resources
 
