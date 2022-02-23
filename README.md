@@ -53,6 +53,8 @@
 
 ## Resources
 
+### Modules
+
 - [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://www.youtube.com/watch?v=qJWALEoGge4&list=TLPQMDYwMTIwMjK_dvV037lu7g&index=2&ab_channel=freeCodeCamp.org)
 - [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc&list=TLPQMDYwMTIwMjK_dvV037lu7g&index=1&ab_channel=freeCodeCamp.org)
 - [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
