@@ -1,9 +1,16 @@
 {
   "name": "build-tools",
   "scripts": {
-    "dev:simple": "http-server simple --port 3000"
+    "dev:simple": "http-server simple --port 3000",
+    "dev:minibundler": "node minibundler/bundler.js | js-beautify | highlight"
   },
   "devDependencies": {
-    "http-server": "^14.1.0"
+    "http-server": "14.1.0",
+    "@babel/core": "7.12.7",
+    "@babel/parser": "7.12.7",
+    "@babel/preset-env": "7.12.7",
+    "@babel/traverse": "7.12.7",
+    "cli-highlight": "2.1.8",
+    "js-beautify": "1.13.0"
   }
 }
