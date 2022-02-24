@@ -70,3 +70,8 @@
 - [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [V8 JavaScript modules](https://v8.dev/features/modules)
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/state-of-modules-in-javascript)
+
+### Platform/Infra teams
+
+- [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
+- [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
