@@ -1,13 +1,18 @@
 # Frontend Infrastructure
 
-## Mission
+## Goal
 
-- Empower frontend web developers with reliable, performant, and developer-friendly tools.
-- Move core metrics (developer experience, developer velocity, debuggability, performance, and reliability)
-- Enhance developer productivity by improving the tooling setup - linting, unit and end to end tests alongside continuous integration and continuous delivery.
-- The frontend infrastructure team strives to provide product teams with the tools and capabilities to efficiently build great user experiences. We shape the architecture of the frontend across the company. We make platform-wide changes and upgrade the entire codebase along the way with codemods.
-- A team that designs, builds, evolves, and maintains the foundational frontend ecosystem that enables web development at the company
-- Improve our frontend frameworks and systems in this modern architecture.
+The frontend infrastructure team empowers product teams with the foundational frontend ecosystem and reliable, performant, and developer-friendly tools to efficiently build great user experiences.
+
+## How
+
+- Move core metrics: developer experience, developer velocity, debuggability, performance, and reliability
+- Enhance developer productivity by improving the tooling setup
+  - Linting
+  - Unit and end to end tests
+  - Continuous integration and continuous delivery
+- We shape the architecture of frontend systems
+- We make platform-wide changes and upgrade the entire codebase along the way with codemods
 
 ## Studies & Research Roadmap
 
