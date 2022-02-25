@@ -9,6 +9,17 @@
 - A team that designs, builds, evolves, and maintains the foundational frontend ecosystem that enables web development at the company
 - Improve our frontend frameworks and systems in this modern architecture.
 
+## Studies & Research Roadmap
+
+- [Simple Scripts](simple)
+- DIY modules
+  - Closures
+  - IFEE
+  - namespace
+- CommonJS
+- ESModules
+- Bundlers
+
 ## Skills
 
 - **Frontend Web Testing**: Infrastructure and testing framework integrations enabling developers to write a comprehensive set of unit, integration, and end-to-end tests for the range of projects that live in our TypeScript monorepo
