@@ -46,16 +46,6 @@
 - Experience optimizing the client-side performance of web applications
 - Experience working with large scale codebases and systems, particularly web applications and frontend architecture.
 
-## Jobs
-
-- [Airbnb - Frontend Infrastructure Engineer, Web Platform](https://careers.airbnb.com/positions/3903900/)
-- [Tiktok - Software Engineer, Frontend Infrastructure](https://careers.tiktok.com/position/6961906536192985374/detail)
-- [Flexport - Software Engineer II, Front End Infrastructure](https://boards.greenhouse.io/flexport/jobs/3079348)
-- [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
-- [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
-- [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
-- [Quora - Senior Software Engineer - Frontend Platform](https://boards.greenhouse.io/quora/jobs/5880027002)
-
 ## Resources
 
 ### Modules
@@ -75,3 +65,13 @@
 
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
+
+## Jobs
+
+- [Airbnb - Frontend Infrastructure Engineer, Web Platform](https://careers.airbnb.com/positions/3903900/)
+- [Tiktok - Software Engineer, Frontend Infrastructure](https://careers.tiktok.com/position/6961906536192985374/detail)
+- [Flexport - Software Engineer II, Front End Infrastructure](https://boards.greenhouse.io/flexport/jobs/3079348)
+- [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
+- [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
+- [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
+- [Quora - Senior Software Engineer - Frontend Platform](https://boards.greenhouse.io/quora/jobs/5880027002)
