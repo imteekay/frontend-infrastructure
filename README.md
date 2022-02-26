@@ -77,6 +77,12 @@ The frontend infrastructure team empowers product teams with the foundational fr
 - [V8 JavaScript modules](https://v8.dev/features/modules)
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/state-of-modules-in-javascript)
 
+### JavaScript Spec
+
+- [How to Read the ECMAScript Specification](https://timothygu.me/es-howto)
+- [Future Javascript: Javascript Pipeline Operators](https://dev.to/smpnjn/future-javascript-javascript-pipeline-operators-5jj)
+- [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
+
 ### Platform/Infra teams
 
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
