@@ -2,7 +2,7 @@
 
 ## Goal
 
-The frontend infrastructure team empowers product teams with the foundational frontend ecosystem and reliable, performant, and developer-friendly tools to efficiently build great user experiences.
+Frontend infrastructure teams empower product teams with the foundational frontend ecosystem and reliable, performant, and developer-friendly tools to efficiently build great user experiences.
 
 ## How
 
