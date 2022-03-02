@@ -44,6 +44,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - CommonJS
 - ESModules
 - Bundlers
+  - [minibundler](minibundler)
 
 ## Skills
 
