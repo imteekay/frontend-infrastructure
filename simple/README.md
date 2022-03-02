@@ -1,5 +1,21 @@
 # Simple Scripts
 
+## Setup
+
+To setup your environment: install all dependencies
+
+```bash
+yarn
+```
+
+And start the server: run the page and the scripts:
+
+```bash
+yarn dev:simple
+```
+
+## JavaScript: Before modules
+
 In the early days of the internet & JavaScript, web developers usually handle user interactions with simple JavaScript scripts.
 
 Using the `<script>` tag to let browsers load and execute JavaScript code.
