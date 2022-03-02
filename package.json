@@ -2,7 +2,9 @@
   "name": "build-tools",
   "scripts": {
     "dev:simple": "http-server simple --port 3000",
-    "dev:minibundler": "node minibundler/bundler.js | js-beautify | highlight"
+    "dev:minibundler": "node minibundler/bundler.js | js-beautify | highlight",
+    "dev:bundler": "node bundler/src/index.js",
+    "build:bundler": "node bundler/src/build.js"
   },
   "devDependencies": {
     "http-server": "14.1.0",

@@ -1,0 +1,20 @@
+{
+  "name": "bundler",
+  "version": "1.0.0",
+  "description": "Building a bundle for fun",
+  "main": "index.js",
+  "repository": "git@github.com:imteekay/bundler.git",
+  "author": "TK <leandrotk100@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  },
+  "dependencies": {
+    "@babel/core": "7.17.2",
+    "express": "4.17.3"
+  },
+  "scripts": {
+    "dev": "node src/index.js",
+    "build": "node src/build.js"
+  }
+}
