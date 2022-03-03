@@ -3,6 +3,7 @@
   "scripts": {
     "dev:simple": "http-server simple --port 3000",
     "dev:iife": "http-server iife --port 3000",
+    "dev:namespace": "http-server namespace --port 3000",
     "dev:minibundler": "node minibundler/bundler.js | js-beautify | highlight",
     "dev:bundler": "node bundler/src/index.js",
     "build:bundler": "node bundler/src/build.js"
