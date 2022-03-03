@@ -71,6 +71,13 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [V8 JavaScript modules](https://v8.dev/features/modules)
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/state-of-modules-in-javascript)
+- [CommonJS effort sets JavaScript on path for world domination](https://arstechnica.com/information-technology/2009/12/commonjs-effort-sets-javascript-on-path-for-world-domination)
+- [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive)
+
+### Bundlers and Build Tools
+
+- [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking)
+- [Improving Site Performance With Webpack Tree Shaking](https://medium.com/coursera-engineering/improving-site-performance-with-tree-shaking-491b6a7e0708)
 
 ### JavaScript Spec
 
