@@ -10,15 +10,16 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Enhance developer productivity by improving the tooling setup
   - Linting: enforce best practices with static analysis and eslint rules
   - Unit and end to end tests
-  - Continuous integration and continuous delivery
-  - Type System
-  - Create infrastructure so teams can start building new front end applications without needing to know tricky configuration details
+  - Deployment: continuous integration and continuous delivery
+  - Type System: consistent and less-risky applications
+  - Shared Configurations: create infrastructure so teams can start building new frontend applications without needing to know tricky configuration details
+  - Build System: bundling frontend applications
 - Testing: Infrastructure and testing framework integrations enabling developers to write a comprehensive set of unit, integration, and end-to-end tests
 - Observability: Client-side web logging libraries, integration with vendor error monitoring solutions, alert generators for standard web metrics as well as their usage in automated canary analysis, and testing solutions to ensure logging quality
 - Shape the architecture of frontend systems
   - Define patterns for UIs (design system)
   - Define patterns for data fetching
-  - Degine patterns for frontend-backend relation: graphql, BFF, rest APIs
+  - Define patterns for frontend-backend relation: graphql, BFF, rest APIs
 - Make platform-wide changes and upgrade the entire codebase
   - Replace old libraries with new standards
 - Build a strong culture with the foundational platform knowledge
@@ -27,6 +28,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Improve end-user experience by building infrastructure to support UX consistency across products
   - Optimize the client-side performance of web applications
   - Support teams to build consistent experiences through design systems
+  - Monitoring systems: monitoring errors in the application
 - Research and test new languages, libraries and frameworks and evaluate their potential to make sure we never stop innovating.
   - Understand developer pain points and common questions in frontend development, and aim to improve or answer them.
   - Enable different product teams to be more productive by identifying similar features or tasks across teams and making improvements in the frontend stack or processes
@@ -49,7 +51,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Skills
 
-- Knowledge of modern front-end tech stack: HTML, CSS, JavaScript, JS frameworks, type systems, package management, module bundling, unit, and integration testing, browser capabilities, etc
+- Knowledge of modern frontend tech stack: HTML, CSS, JavaScript, JS frameworks, type systems, package management, module bundling, unit, and integration testing, browser capabilities, etc
 - Experience with deployment automation tools: Jenkins, AWS Codepipeline, TravisCI, CircleCI, etc and/or Shell/Bash script
 - Experience with developing reusable UI components, and implementing WCAG (Web Content Accessibility Guidelines)
 - Deep understanding of web bundlers and its surrounding technologies (plugins, compiler hooks)
@@ -80,13 +82,13 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
-- [The Case for Front End Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
+- [The Case for Frontend Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
 
 ## Jobs
 
 - [Airbnb - Frontend Infrastructure Engineer, Web Platform](https://careers.airbnb.com/positions/3903900/)
 - [Tiktok - Software Engineer, Frontend Infrastructure](https://careers.tiktok.com/position/6961906536192985374/detail)
-- [Flexport - Software Engineer II, Front End Infrastructure](https://boards.greenhouse.io/flexport/jobs/3079348)
+- [Flexport - Software Engineer II, Frontend Infrastructure](https://boards.greenhouse.io/flexport/jobs/3079348)
 - [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
 - [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
 - [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
