@@ -63,7 +63,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc&list=TLPQMDYwMTIwMjK_dvV037lu7)
 - [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
 - [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
-- [History of Web Development: JavaScript Modules](https://lihautan.com/javascript-modules/)
+- [History of Web Development: JavaScript Modules](https://lMihautan.com/javascript-modules/)
 - [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
 - [JavaScript Modules: A Brief History](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history)
 - [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
@@ -80,6 +80,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
+- [The Case for Front End Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
 
 ## Jobs
 
