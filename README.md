@@ -65,7 +65,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc&list=TLPQMDYwMTIwMjK_dvV037lu7)
 - [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
 - [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
-- [History of Web Development: JavaScript Modules](https://lMihautan.com/javascript-modules/)
+- [History of Web Development: JavaScript Modules](https://lihautan.com/javascript-modules/)
 - [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
 - [JavaScript Modules: A Brief History](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history)
 - [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
@@ -73,6 +73,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [State of Modules in JavaScript](https://www.sitepen.com/blog/state-of-modules-in-javascript)
 - [CommonJS effort sets JavaScript on path for world domination](https://arstechnica.com/information-technology/2009/12/commonjs-effort-sets-javascript-on-path-for-world-domination)
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive)
+- [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b)
+- [From CommonJS to ES Modules: How to modernize your Node.js app](https://electerious.medium.com/from-commonjs-to-es-modules-how-to-modernize-your-node-js-app-ad8cdd4fb662)
 
 ### Bundlers and Build Tools
 
