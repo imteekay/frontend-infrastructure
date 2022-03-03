@@ -83,6 +83,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
 - [The Case for Frontend Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
+- [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
 
 ## Jobs
 
