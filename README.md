@@ -104,6 +104,9 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
 - [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
 - [rollup.js: a module bundler for JavaScript](https://rollupjs.org)
+- [swc: Rust-based platform for the Web](https://swc.rs)
+- [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
+- [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
 
 ## Jobs
 
