@@ -76,11 +76,14 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b)
 - [From CommonJS to ES Modules: How to modernize your Node.js app](https://electerious.medium.com/from-commonjs-to-es-modules-how-to-modernize-your-node-js-app-ad8cdd4fb662)
 - [Essential JavaScript Namespacing Patterns](https://addyosmani.com/blog/essential-js-namespacing)
+- [Native ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 ### Bundlers and Build Tools
 
 - [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking)
 - [Improving Site Performance With Webpack Tree Shaking](https://medium.com/coursera-engineering/improving-site-performance-with-tree-shaking-491b6a7e0708)
+- [Compilers are the New Frameworks](https://tomdale.net/2017/09/compilers-are-the-new-frameworks/)
+- [Vite is a next-generation frontend tool](https://patak.dev/web/vite-2.html)
 
 ### JavaScript Spec
 
@@ -94,6 +97,12 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
 - [The Case for Frontend Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
 - [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
+
+## Tools
+
+- [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
+- [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
+- [rollup.js: a module bundler for JavaScript](https://rollupjs.org)
 
 ## Jobs
 
