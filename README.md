@@ -42,7 +42,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 ## Studies & Research Roadmap
 
 - [Simple Scripts](simple)
-- DIY modules: Closures, [IIFEs](iife), Namespaces
+- DIY modules: Closures, [IIFEs](iife), [Namespaces](namespace)
 - CommonJS
 - ESModules
 - Bundlers
