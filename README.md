@@ -75,6 +75,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive)
 - [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b)
 - [From CommonJS to ES Modules: How to modernize your Node.js app](https://electerious.medium.com/from-commonjs-to-es-modules-how-to-modernize-your-node-js-app-ad8cdd4fb662)
+- [Essential JavaScript Namespacing Patterns](https://addyosmani.com/blog/essential-js-namespacing)
 
 ### Bundlers and Build Tools
 
