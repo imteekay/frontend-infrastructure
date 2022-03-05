@@ -54,8 +54,68 @@ Before, we didn't have a proper approach for modules in JavaScript. We used IIFE
 
 In this mini project, I want to show an example of using IIFEs as a module pattern in JavaScript.
 
-In the [Simple Scripts](../simple)
+In the [Simple Scripts](../simple) mini project, we saw that executing scripts would create functions, variables, and so on in the global scope. With IIFEs, we avoid polluting the global scope.
+
+Before, the `users` was accessible in the global scope. The browser loads and executes the `load-users.js` script and attaches the `users` variable to the global scope.
+
+```javascript
+const users = ['TK', 'Kazumi', 'Kaio'];
+```
+
+With the IIFE, we can make the `users` private and make a getter function accessible in the global scope.
+
+```javascript
+const User = (function () {
+  const users = ['TK', 'Kazumi', 'Kaio'];
+
+  function getUsers() {
+    return users;
+  }
+
+  return { getUsers };
+})();
+```
+
+Here we just use an IIFE to make the `users` variable private and expose only a getter function.
+
+So now, we won't be able to access the `users` variable outside the IIFE anymore. To use the data, we need to call the `getUsers` function.
+
+```javascript
+Users.getUsers();
+```
+
+The `Users` is accessible in the global scope together with the public function `getUsers` but now the `users` data is private.
+
+And we also use IIFE for the `list-users.js` script. We don't need to expose functions and variables it creates. It just need to execute the script, meaning: list users and add event listeners to remove users from the list.
+
+```javascript
+(function () {
+  const ul = document.getElementById('list');
+
+  User.getUsers().forEach((user, index) => {
+    const listItem = `li-${index}`;
+    const deleteButton = document.createElement('button');
+
+    const li = document.createElement('li');
+
+    li.innerHTML = user;
+    li.setAttribute('id', listItem);
+
+    deleteButton.innerHTML = 'X';
+    deleteButton.addEventListener('click', () => {
+      li.remove();
+    });
+
+    li.appendChild(deleteButton);
+
+    ul.appendChild(li);
+  });
+})();
+```
+
+Before, the `listUsers` was exposed in the global scope but now it is an anonymous function and the script is only executed, no variables or functions attached to the global scope.
 
 ## Resources
 
 - [Grouping Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Grouping#using_the_grouping_operator)
+- [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
