@@ -54,7 +54,7 @@ Before, we didn't have a proper approach for modules in JavaScript. We used IIFE
 
 In this mini project, I want to show an example of using IIFEs as a module pattern in JavaScript.
 
-In the [Simple Scripts](simple)
+In the [Simple Scripts](../simple)
 
 ## Resources
 
