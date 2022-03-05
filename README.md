@@ -99,6 +99,14 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [The Case for Frontend Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
 - [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
 
+### Developer Experience
+
+- [What is Developer Experience? a roundup of links and goodness](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness)
+- [DX at Netlify](https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify)
+- [Developer Experience, beyond a single product.](https://twitter.com/sarah_edo/status/1488182123450142723)
+- [How To Prioritize The Developer Experience And Improve Output](https://harness.io/blog/developer-experience)
+- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers)
+
 ## Tools
 
 - [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
