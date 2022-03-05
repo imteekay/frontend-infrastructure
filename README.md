@@ -106,6 +106,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Developer Experience, beyond a single product.](https://twitter.com/sarah_edo/status/1488182123450142723)
 - [How To Prioritize The Developer Experience And Improve Output](https://harness.io/blog/developer-experience)
 - [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers)
+- [The Developer Experience Gap](https://redmonk.com/sogrady/2020/10/06/developer-experience-gap)
+- [Developer experience is so much more than using the product itself](https://twitter.com/Dayhaysoos/status/1491814689759797249)
 
 ## Tools
 
