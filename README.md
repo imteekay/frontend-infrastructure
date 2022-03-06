@@ -129,3 +129,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
 - [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
 - [Quora - Senior Software Engineer - Frontend Platform](https://boards.greenhouse.io/quora/jobs/5880027002)
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
