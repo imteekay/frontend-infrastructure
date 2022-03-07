@@ -43,8 +43,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [Simple Scripts](simple)
 - DIY modules: Closures and Scope, [IIFEs](iife), [Namespaces](namespace)
-- CommonJS
-- ESModules
+- [CommonJS](esm-vs-cjs)
+- [ESModules](esm-vs-cjs)
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
@@ -78,6 +78,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [From CommonJS to ES Modules: How to modernize your Node.js app](https://electerious.medium.com/from-commonjs-to-es-modules-how-to-modernize-your-node-js-app-ad8cdd4fb662)
 - [Essential JavaScript Namespacing Patterns](https://addyosmani.com/blog/essential-js-namespacing)
 - [Native ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
+- [Publish ESM and CJS in a single package](https://antfu.me/posts/publish-esm-and-cjs)
 
 ### Bundlers and Build Tools
 

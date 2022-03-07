@@ -1,0 +1,7 @@
+{
+  "name": "esm-vs-cjs",
+  "scripts": {
+    "dev:esm": "node src/esm.mjs",
+    "dev:cjs": "node src/cjs.cjs"
+  }
+}
