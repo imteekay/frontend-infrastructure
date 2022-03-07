@@ -80,6 +80,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Native ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 - [Node Modules at War: Why CommonJS and ES Modules Can’t Get Along](https://redfin.engineering/node-modules-at-war-why-commonjs-and-es-modules-cant-get-along-9617135eeca1)
 - [Publish ESM and CJS in a single package](https://antfu.me/posts/publish-esm-and-cjs)
+- [Exploring ES6: JavaScript Modules](https://exploringjs.com/es6/ch_modules.html)
 
 ### Bundlers and Build Tools
 
