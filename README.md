@@ -43,8 +43,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [Simple Scripts](simple)
 - DIY modules: Closures and Scope, [IIFEs](iife), [Namespaces](namespace)
-- CommonJS
-- ESModules
+- [CommonJS](esm-vs-cjs)
+- [ESModules](esm-vs-cjs)
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
