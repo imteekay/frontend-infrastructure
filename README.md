@@ -136,15 +136,15 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Jobs
 
-- [Airbnb - Frontend Infrastructure Engineer, Web Platform](https://careers.airbnb.com/positions/3903900/)
-- [Tiktok - Software Engineer, Frontend Infrastructure](https://careers.tiktok.com/position/6961906536192985374/detail)
-- [Flexport - Software Engineer II, Frontend Infrastructure](https://boards.greenhouse.io/flexport/jobs/3079348)
-- [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
-- [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
-- [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
-- [Stripe - Frontend Infrastructure Engineer, Payments Product](https://stripe.com/jobs/listing/development-infrstructure-engineer-payments-web/3964791)
-- [Quora - Senior Software Engineer - Frontend Platform](https://boards.greenhouse.io/quora/jobs/5880027002)
-- [Etsy - Staff Software Engineer I, Frontend Build Infrastructure](https://jobs.smartrecruiters.com/Etsy2/743999797149023-staff-software-engineer-i-frontend-build-infrastructure)
+- [Airbnb - Frontend Infrastructure Engineer, Web Platform](pdfs/jobs/airbnb-senior-frontend-infrastructure-engineer-web-platform.pdf)
+- [Tiktok - Software Engineer, Frontend Infrastructure](pdfs/jobs/tiktok-software-engineer-frontend-infrastructure.pdf)
+- [Flexport - Software Engineer II, Frontend Infrastructure](pdfs/jobs/flexport-software-engineer-frontend-infrastructure.pdf)
+- [Delivery Hero - Engineering Manager - Frontend Infrastructure](pdfs/jobs/delivery-hero-frontend-infrastructure.pdf.pdf)
+- [Wix - Senior Frontend Infrastructure Engineer](pdfs/jobs/wix-senior-frontend-infrastructure-engineer.pdf)
+- [Stripe - Frontend Platform Engineer, Developer Productivity](pdfs/jobs/stripe-frontend-platform-engineer-dveloper-productivity.pdf)
+- [Stripe - Frontend Infrastructure Engineer, Payments Product](pdfs/jobs/stripe-frontend-infrastructure-engineer.pdf)
+- [Quora - Senior Software Engineer - Frontend Platform](pdfs/jobs/quora-senior-software-engineer-frontend-platform.pdf)
+- [Etsy - Staff Software Engineer I, Frontend Build Infrastructure](pdfs/jobs/etsy-staff-software-engineer-frontend-build-infrastructure.pdf)
 
 ## License
 
