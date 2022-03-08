@@ -142,7 +142,9 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Delivery Hero - Engineering Manager - Frontend Infrastructure](https://careers.deliveryhero.com/global/en/job/JR0020676/Engineering-Manager-Frontend-Infrastructure-f-m-d)
 - [Wix - Senior Frontend Infrastructure Engineer](https://www.wix.com/jobs/locations/tel-aviv/positions/473401)
 - [Stripe - Frontend Platform Engineer, Developer Productivity](https://stripe.com/jobs/listing/frontend-platform-engineer-developer-productivity/3104737)
+- [Stripe - Frontend Infrastructure Engineer, Payments Product](https://stripe.com/jobs/listing/development-infrstructure-engineer-payments-web/3964791)
 - [Quora - Senior Software Engineer - Frontend Platform](https://boards.greenhouse.io/quora/jobs/5880027002)
+- [Etsy - Staff Software Engineer I, Frontend Build Infrastructure](https://jobs.smartrecruiters.com/Etsy2/743999797149023-staff-software-engineer-i-frontend-build-infrastructure)
 
 ## License
 
