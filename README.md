@@ -67,6 +67,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 ### Scope, Closure, and Execution Context
 
 - [MDN Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [Closure, Scope & Execution Context](https://www.youtube.com/watch?v=XTAzsODSCsM)
 
 ### Modules
 
