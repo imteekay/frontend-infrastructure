@@ -106,12 +106,21 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Future Javascript: Javascript Pipeline Operators](https://dev.to/smpnjn/future-javascript-javascript-pipeline-operators-5jj)
 - [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
 
+### Infrastructure for migrations and adoption
+
+- [Migrating Large TypeScript Codebases To Project References](https://shopify.engineering/migrating-large-typescript-codebases-project-references)
+- [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
+- [Adopting Typescript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE&ab_channel=JSConf)
+- [Spark Joy by Running Fewer Tests](https://shopify.engineering/spark-joy-by-running-fewer-tests)
+- [Test Budget: Time Constrained CI Feedback](https://shopify.engineering/test-budget-time-constrained-ci-feedback)
+
 ### Platform/Infra teams
 
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
 - [The Case for Frontend Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
 - [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
+- [Modelling Developer Infrastructure Teams](https://shopify.engineering/modelling-developer-infrastructure-teams)
 
 ### Developer Experience
 
@@ -124,6 +133,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Developer experience is so much more than using the product itself](https://twitter.com/Dayhaysoos/status/1491814689759797249)
 - [A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools)
 - [Developer Experience: Concept and Definition](pdfs/dx/developer-experience-concept-and-definition.pdf)
+
+### CI/CD
+
+- [Keeping Developers Happy with a Fast CI](https://shopify.engineering/faster-shopify-ci)
 
 ## Tools
 
