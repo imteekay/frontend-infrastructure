@@ -68,6 +68,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [MDN Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - [Closure, Scope & Execution Context](https://www.youtube.com/watch?v=XTAzsODSCsM)
+- [A Simple Explanation of Scope in JavaScript](https://dmitripavlutin.com/javascript-scope)
+- [Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
 
 ### Modules
 
