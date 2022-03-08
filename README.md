@@ -145,6 +145,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Stripe - Frontend Infrastructure Engineer, Payments Product](pdfs/jobs/stripe-frontend-infrastructure-engineer.pdf)
 - [Quora - Senior Software Engineer - Frontend Platform](pdfs/jobs/quora-senior-software-engineer-frontend-platform.pdf)
 - [Etsy - Staff Software Engineer I, Frontend Build Infrastructure](pdfs/jobs/etsy-staff-software-engineer-frontend-build-infrastructure.pdf)
+- [Cube - Frontend Infrastructure Engineer](pdfs/jobs/cube-senior-frontend-engineer-infrastructure.pdf)
 
 ## License
 
