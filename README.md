@@ -42,9 +42,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 ## Studies & Research Roadmap
 
 - [Simple Scripts](simple)
-- DIY modules: Closures and Scope, [IIFEs](iife), [Namespaces](namespace)
+- DIY modules: [Closures and Scope](scope-and-closure), [IIFEs](iife), [Namespaces](namespace)
 - [CommonJS](esm-vs-cjs)
 - [ESModules](esm-vs-cjs)
+- TypeScript
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
@@ -59,6 +60,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Thinks deeply about systems — their edge cases, failure modes, and lifecycles
 
 ## Resources
+
+### Scope, Closure, and Execution Context
+
+- [MDN Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 
 ### Modules
 
