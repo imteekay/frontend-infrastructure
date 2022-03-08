@@ -4,7 +4,8 @@ function calculateArea(r) {
   return PI * r * r;
 }
 
-calculateArea(1); // 3.14
+const area = calculateArea(1);
+console.log('area', area); // 3.14
 
 function functionScope() {
   const TEST = 'test';

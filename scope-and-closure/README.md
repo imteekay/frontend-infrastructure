@@ -1,5 +1,19 @@
 # Scope & Closure
 
+## Dev
+
+To run tests from the scope file
+
+```bash
+yarn dev:scope
+```
+
+To run tests from the closure file
+
+```bash
+yarn dev:closure
+```
+
 ## Scope
 
 Scope in JavaScript is basically a context of execution, a place where values and expressions (variables, constants, functions, etc) can be referenced.
