@@ -8,7 +8,13 @@ To setup your environment: install all dependencies
 yarn
 ```
 
-And start the server:
+Build the application:
+
+```bash
+yarn build
+```
+
+Start the server:
 
 ```bash
 yarn start

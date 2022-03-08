@@ -2,17 +2,17 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    main: './src/main.js'
+    main: './src/main.js',
   },
   mode: 'development',
   output: {
     filename: '[name]-bundle.js',
     path: path.resolve(__dirname, '../dist'),
-    publicPath: '/'
+    publicPath: '/',
   },
   devServer: {
     contentBase: 'dist',
-    overlay: true
+    overlay: true,
   },
   module: {
     rules: [
@@ -20,12 +20,12 @@ module.exports = {
         test: /\.css$/,
         use: [
           {
-            loader: 'style-loader'
+            loader: 'style-loader',
           },
           {
-            loader: 'css-loader'
-          }
-        ]
+            loader: 'css-loader',
+          },
+        ],
       },
       {
         test: /\.html$/,
@@ -33,11 +33,11 @@ module.exports = {
           {
             loader: 'file-loader',
             options: {
-              name: '[name].html'
-            }
+              name: '[name].html',
+            },
           },
           {
-            loader: 'extract-loader'
+            loader: 'extract-loader',
           },
           {
             loader: 'html-loader',
@@ -47,13 +47,13 @@ module.exports = {
                   {
                     tag: 'img',
                     attribute: 'data-src',
-                    type: 'src'
-                  }
-                ]
-              }
-            }
-          }
-        ]
+                    type: 'src',
+                  },
+                ],
+              },
+            },
+          },
+        ],
       },
       {
         test: /\.(png|jpg|gif)$/,
@@ -61,10 +61,10 @@ module.exports = {
           {
             loader: 'file-loader',
             options: {
-              name: 'images/[name]-[hash:8].[ext]'
-            }
-          }
-        ]
+              name: 'images/[name]-[hash:8].[ext]',
+            },
+          },
+        ],
       },
       {
         test: /\.js$/,
@@ -73,10 +73,15 @@ module.exports = {
           loader: 'babel-loader',
           options: {
             presets: ['@babel/preset-env'],
-            plugins: [['@babel/plugin-proposal-pipeline-operator', { proposal: 'minimal' }]]
-          }
-        }
-      }
-    ]
-  }
-}
+            plugins: [
+              [
+                '@babel/plugin-proposal-pipeline-operator',
+                { proposal: 'minimal' },
+              ],
+            ],
+          },
+        },
+      },
+    ],
+  },
+};
