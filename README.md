@@ -123,7 +123,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [The Developer Experience Gap](https://redmonk.com/sogrady/2020/10/06/developer-experience-gap)
 - [Developer experience is so much more than using the product itself](https://twitter.com/Dayhaysoos/status/1491814689759797249)
 - [A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools)
-- [Developer Experience: Concept and Definition](pdfs/developer-experience-concept-and-definition.pdf)
+- [Developer Experience: Concept and Definition](pdfs/dx/developer-experience-concept-and-definition.pdf)
 
 ## Tools
 
