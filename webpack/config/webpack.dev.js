@@ -60,6 +60,7 @@ module.exports = {
                 '@babel/plugin-proposal-pipeline-operator',
                 { proposal: 'minimal' },
               ],
+              ['babel-plugin-transform-async-to-promises'],
             ],
           },
         },
