@@ -100,6 +100,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Vite is a next-generation frontend tool](https://patak.dev/web/vite-2.html)
 - [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
 - [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
+- [Webpack — The Confusing Parts](https://rajaraodv.medium.com/webpack-the-confusing-parts-58712f8fcad9)
+- [Webpack loaders vs plugins: what's the difference?](https://stackoverflow.com/a/46176755/3159162)
 
 **JavaScript Spec**
 
