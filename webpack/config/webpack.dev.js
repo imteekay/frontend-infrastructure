@@ -34,27 +34,16 @@ module.exports = {
           },
           {
             loader: 'html-loader',
-            options: {
-              attributes: {
-                list: [
-                  {
-                    tag: 'img',
-                    attribute: 'data-src',
-                    type: 'src',
-                  },
-                ],
-              },
-            },
           },
         ],
       },
       {
-        test: /\.(png|jpg|gif)$/,
+        test: /\.(jpe?g|png|gif|svg)$/i,
         use: [
           {
             loader: 'file-loader',
             options: {
-              name: 'images/[name]-[hash:8].[ext]',
+              name: './images/[name]-[hash:8].[ext]',
             },
           },
         ],
