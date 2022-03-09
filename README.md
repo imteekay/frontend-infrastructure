@@ -143,17 +143,20 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Tools
 
-- Bundlers
-  - [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
-  - [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
-  - [rollup.js: a module bundler for JavaScript](https://rollupjs.org)
-  - [swc: Rust-based platform for the Web](https://swc.rs)
-  - [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
-  - [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
-- Flow -> TS codemods
-  - [babel-plugin-flow-to-typescript](https://github.com/Kiikurage/babel-plugin-flow-to-typescript)
-  - [flow-to-ts](https://github.com/Khan/flow-to-ts)
-  - [Airtable’s TypeScript Migration Codemod](https://github.com/Airtable/typescript-migration-codemod)
+**Bundlers**
+
+- [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
+- [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
+- [rollup.js: a module bundler for JavaScript](https://rollupjs.org)
+- [swc: Rust-based platform for the Web](https://swc.rs)
+- [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
+- [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
+
+**Flow -> TS codemods**
+
+- [babel-plugin-flow-to-typescript](https://github.com/Kiikurage/babel-plugin-flow-to-typescript)
+- [flow-to-ts](https://github.com/Khan/flow-to-ts)
+- [Airtable’s TypeScript Migration Codemod](https://github.com/Airtable/typescript-migration-codemod)
 
 ## Jobs
 
