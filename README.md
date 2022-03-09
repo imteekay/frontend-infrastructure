@@ -76,8 +76,6 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://www.youtube.com/watch?v=qJWALEoGge4)
 - [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc&list=TLPQMDYwMTIwMjK_dvV037lu7)
-- [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
-- [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
 - [History of Web Development: JavaScript Modules](https://lihautan.com/javascript-modules/)
 - [Brief history of JavaScript Modules](https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde)
 - [JavaScript Modules: A Brief History](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history)
@@ -100,6 +98,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Improving Site Performance With Webpack Tree Shaking](https://medium.com/coursera-engineering/improving-site-performance-with-tree-shaking-491b6a7e0708)
 - [Compilers are the New Frameworks](https://tomdale.net/2017/09/compilers-are-the-new-frameworks/)
 - [Vite is a next-generation frontend tool](https://patak.dev/web/vite-2.html)
+- [Module bundlers in 3 levels](https://www.youtube.com/watch?v=iOYO2dKBYow&ab_channel=lihautan)
+- [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
 
 **JavaScript Spec**
 
