@@ -111,8 +111,6 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Migrating Large TypeScript Codebases To Project References](https://shopify.engineering/migrating-large-typescript-codebases-project-references)
 - [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
 - [Adopting Typescript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE&ab_channel=JSConf)
-- [Spark Joy by Running Fewer Tests](https://shopify.engineering/spark-joy-by-running-fewer-tests)
-- [Test Budget: Time Constrained CI Feedback](https://shopify.engineering/test-budget-time-constrained-ci-feedback)
 
 ### Platform/Infra teams
 
@@ -133,6 +131,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Developer experience is so much more than using the product itself](https://twitter.com/Dayhaysoos/status/1491814689759797249)
 - [A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools)
 - [Developer Experience: Concept and Definition](pdfs/dx/developer-experience-concept-and-definition.pdf)
+- [Spark Joy by Running Fewer Tests](https://shopify.engineering/spark-joy-by-running-fewer-tests)
+- [Test Budget: Time Constrained CI Feedback](https://shopify.engineering/test-budget-time-constrained-ci-feedback)
 
 ### CI/CD
 
