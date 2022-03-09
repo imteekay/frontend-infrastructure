@@ -48,11 +48,12 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - [Namespaces](namespace)
 - [CommonJS](esm-vs-cjs)
 - [ESModules](esm-vs-cjs)
-- TypeScript
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
   - [webpack](webpack)
+- TypeScript
+- ECMAScript and TC39
 
 ## Skills
 
@@ -111,6 +112,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Migrating Large TypeScript Codebases To Project References](https://shopify.engineering/migrating-large-typescript-codebases-project-references)
 - [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
 - [Adopting Typescript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE&ab_channel=JSConf)
+- [The continual evolution of Airtable’s codebase: Migrating a million lines of code to TypeScript](https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c)
+- [TypeScript vs Flow](https://github.com/niieani/typescript-vs-flowtype)
 
 ### Platform/Infra teams
 
@@ -140,12 +143,17 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Tools
 
-- [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
-- [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
-- [rollup.js: a module bundler for JavaScript](https://rollupjs.org)
-- [swc: Rust-based platform for the Web](https://swc.rs)
-- [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
-- [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
+- Bundlers
+  - [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
+  - [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
+  - [rollup.js: a module bundler for JavaScript](https://rollupjs.org)
+  - [swc: Rust-based platform for the Web](https://swc.rs)
+  - [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
+  - [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
+- Flow -> TS codemods
+  - [babel-plugin-flow-to-typescript](https://github.com/Kiikurage/babel-plugin-flow-to-typescript)
+  - [flow-to-ts](https://github.com/Khan/flow-to-ts)
+  - [Airtable’s TypeScript Migration Codemod](https://github.com/Airtable/typescript-migration-codemod)
 
 ## Jobs
 
