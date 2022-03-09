@@ -33,3 +33,6 @@ yarn start
   - [html-loader](https://v4.webpack.js.org/loaders/html-loader): interprets HTML files from the `import` syntax
   - [extract-loader](https://github.com/peerigon/extract-loader): extracts HTML and CSS from the bundle
   - [file-loader](https://v4.webpack.js.org/loaders/file-loader): emits a new file based on the file's `import`
+- babel: transform JavaScript code into older versions and allow to use future syntax and features
+  - `@babel/plugin-proposal-pipeline-operator`: support for pipeline operator feature
+  - `babel-plugin-transform-async-to-promises`: support for async-await feature
