@@ -107,6 +107,11 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Future Javascript: Javascript Pipeline Operators](https://dev.to/smpnjn/future-javascript-javascript-pipeline-operators-5jj)
 - [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
 
+**TypeScript**
+
+- [A Mental Model to Think in TypeScript](https://www.iamtk.co/a-mental-model-to-think-in-typescript)
+- [Advanced TypeScript Concepts](https://github.com/imteekay/advanced-typescript)
+
 **Infrastructure for migrations and adoption**
 
 - [Migrating Large TypeScript Codebases To Project References](https://shopify.engineering/migrating-large-typescript-codebases-project-references)
@@ -134,6 +139,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Developer experience is so much more than using the product itself](https://twitter.com/Dayhaysoos/status/1491814689759797249)
 - [A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools)
 - [Developer Experience: Concept and Definition](pdfs/dx/developer-experience-concept-and-definition.pdf)
+
+**Frontend Architecture**
+
+- [A different approach to frontend architecture](https://dev.to/huytaquoc/a-different-approach-to-frontend-architecture-38d4)
 
 **CI/CD**
 
