@@ -1,5 +1,5 @@
-require('./main.css');
-require('./index.html');
+import './main.css';
+import './index.html';
 
 const square = (n) => Math.pow(n, 2);
 
