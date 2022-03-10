@@ -22,8 +22,8 @@ Using the `<script>` tag to let browsers load and execute JavaScript code.
 
 In this example, we show a very simple script to load and list users in the page. We have two separate files (or modules!).
 
-- [`load-users.js`](https://github.com/research-experiment/frontend-infrastructure/blob/main/simple/load-users.js): "load" all the users to be listed in the page
-- [`list-users.js`](https://github.com/research-experiment/frontend-infrastructure/blob/main/simple/list-users.js): get the loaded users and list them in the page. This script also creates close buttons to delete users from the list.
+- [`load-users.js`](https://github.com/imteekay/frontend-infrastructure/blob/main/simple/load-users.js): "load" all the users to be listed in the page
+- [`list-users.js`](https://github.com/imteekay/frontend-infrastructure/blob/main/simple/list-users.js): get the loaded users and list them in the page. This script also creates close buttons to delete users from the list.
 
 It's important to notice that the order of the script tags is critical. We should let browsers load and execute the `load-users.js` module first and then the `list-users.js`.
 
