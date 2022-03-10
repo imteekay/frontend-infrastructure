@@ -1,6 +1,9 @@
 // Throws an exception: Must use import to load ES Module
 // const { sum } = require('./esm.mjs');
 
+// Throws an exception: SyntaxError: Cannot use import statement outside a module
+// import { sum } from './esm.mjs';
+
 function minus(num1, num2) {
   return num1 - num2;
 }
