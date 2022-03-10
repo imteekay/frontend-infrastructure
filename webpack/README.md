@@ -17,7 +17,7 @@ yarn build
 Start the server:
 
 ```bash
-yarn start
+yarn dev
 ```
 
 ## Webpack
