@@ -54,7 +54,7 @@ Before, we didn't have a proper approach for modules in JavaScript. We used IIFE
 
 In this mini project, I want to show an example of using IIFEs as a module pattern in JavaScript.
 
-In the [Simple Scripts](../simple) mini project, we saw that executing scripts would create functions, variables, and so on in the global scope. With IIFEs, we avoid polluting the global scope.
+In the [JavaScript as Scripts](../javascript-as-scripts) mini project, we saw that executing scripts would create functions, variables, and so on in the global scope. With IIFEs, we avoid polluting the global scope.
 
 Before, the `users` was accessible in the global scope. The browser loads and executes the `load-users.js` script and attaches the `users` variable to the global scope.
 
