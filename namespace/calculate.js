@@ -5,7 +5,7 @@
   const operationToFn = {
     '+': Utils.Math.sum,
     '-': Utils.Math.minus,
-    '*': Utils.Math.times,
+    '*': Utils.Math.multiply,
     '/': Utils.Math.divide,
   };
 
