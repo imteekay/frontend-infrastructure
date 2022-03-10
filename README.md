@@ -41,7 +41,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Studies & Research Roadmap
 
-- [Simple Scripts](simple)
+- [JavaScript as Scripts](javascript-as-scripts)
 - DIY modules
   - [Closures and Scope](scope-and-closure)
   - [IIFEs](iife)
