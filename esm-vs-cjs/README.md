@@ -10,7 +10,7 @@ Studies on the differences between [ES modules](https://developer.mozilla.org/en
 
 ## CJS: CommonJS
 
-- It only requires modules using the `require` syntax. You can't use the `import` syntax. It throws an exception `SyntaxError: Cannot use import statement outside a module`
-- Can’t use ESM in CJS. It throws an exception: Must use import to load an ES Module
+- It only requires modules using the `require` syntax. You can't use the `import` syntax. It throws an exception `SyntaxError: Cannot use import statement outside a module`.
+- Can’t use ESM in CJS. It throws an exception: Must use import to load an ES Module.
 - In Node, CJS is the default module system. By default, the `package.json` uses `commonjs` as the `type`'s value.
-- The `require` syntax is synchronous: there's no callback or promise
+- The `require` syntax is synchronous: there's no callback or promise.
