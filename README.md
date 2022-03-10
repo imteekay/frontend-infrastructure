@@ -168,6 +168,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [babel-plugin-flow-to-typescript](https://github.com/Kiikurage/babel-plugin-flow-to-typescript)
 - [flow-to-ts](https://github.com/Khan/flow-to-ts)
 - [Airtable’s TypeScript Migration Codemod](https://github.com/Airtable/typescript-migration-codemod)
+- [ECMAScript 5 to ECMAScript 6 Codemod](https://github.com/5to6/5to6-codemod)
 
 ## Jobs
 
