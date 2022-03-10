@@ -1,9 +1,9 @@
 {
   "name": "build-tools",
   "scripts": {
-    "dev:scripts": "http-server javascript-as-scripts --port 3000",
-    "dev:iife": "http-server iife --port 3000",
-    "dev:namespace": "http-server namespace --port 3000",
+    "dev:scripts": "http-server javascript-as-scripts --port 3001",
+    "dev:iife": "http-server iife --port 3002",
+    "dev:namespace": "http-server namespace --port 3003",
     "dev:scope": "node scope-and-closure/src/scope.js",
     "dev:closure": "node scope-and-closure/src/closure.js",
     "dev:esm": "node esm-vs-cjs/src/esm.mjs",
