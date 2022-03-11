@@ -41,6 +41,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Studies & Research Roadmap
 
+### Module System & Bundlers
+
 - [JavaScript as Scripts](javascript-as-scripts)
 - DIY modules
   - [Closures and Scope](scope-and-closure)
@@ -49,12 +51,17 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Modules
   - [CommonJS](esm-vs-cjs)
   - [ESModules](esm-vs-cjs)
+  - TypeScript
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
   - [webpack](webpack)
-- TypeScript
-- ECMAScript and TC39
+
+### JavaScript
+
+- ECMAScript
+  - TC39 Proposals Overview
+  - TC39 Experiments
 
 ## Skills
 
