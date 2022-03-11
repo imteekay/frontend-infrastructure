@@ -46,8 +46,9 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - [Closures and Scope](scope-and-closure)
   - [IIFEs](iife)
   - [Namespaces](namespace)
-- [CommonJS](esm-vs-cjs)
-- [ESModules](esm-vs-cjs)
+- Modules
+  - [CommonJS](esm-vs-cjs)
+  - [ESModules](esm-vs-cjs)
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
