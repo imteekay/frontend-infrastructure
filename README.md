@@ -57,11 +57,15 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - [bundler](bundler)
   - [webpack](webpack)
 
-### JavaScript
+### JavaScript & TypeScript
 
 - ECMAScript
   - TC39 Proposals Overview
   - TC39 Experiments
+- TypeScript
+  - Simple Types
+  - Advanced Types
+  - Modules
 
 ### CI — Continuous Integration
 
