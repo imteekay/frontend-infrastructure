@@ -55,8 +55,11 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
+  - Tree Shaking
+  - Plugin System
+  - Loader System
 - Bundlers Experiments
-  - [webpack](webpack)
+  - [Webpack](webpack)
 
 **JavaScript & TypeScript**
 
