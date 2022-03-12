@@ -63,8 +63,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - TC39 Proposals Overview
   - TC39 Experiments
 - TypeScript
-  - Simple Types
-  - Advanced Types
+  - [Simple Types](https://github.com/imteekay/thinking-in-types)
+  - [Advanced Types](https://github.com/imteekay/advanced-typescript)
   - Modules
 
 **CI — Continuous Integration**
