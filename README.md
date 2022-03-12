@@ -41,7 +41,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Studies & Research Roadmap
 
-#** Module System & Bundlers**
+** Module System & Bundlers**
 
 - [JavaScript as Scripts](javascript-as-scripts)
 - DIY modules
