@@ -41,7 +41,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Studies & Research Roadmap
 
-### Module System & Bundlers
+#** Module System & Bundlers**
 
 - [JavaScript as Scripts](javascript-as-scripts)
 - DIY modules
@@ -57,7 +57,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - [bundler](bundler)
   - [webpack](webpack)
 
-### JavaScript & TypeScript
+**JavaScript & TypeScript**
 
 - ECMAScript
   - TC39 Proposals Overview
@@ -67,7 +67,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - Advanced Types
   - Modules
 
-### CI — Continuous Integration
+**CI — Continuous Integration**
 
 - NPM install cache
 - Build optimization
