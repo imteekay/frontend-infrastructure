@@ -63,6 +63,12 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - TC39 Proposals Overview
   - TC39 Experiments
 
+### CI — Continuous Integration
+
+- NPM install cache
+- Build optimization
+- Tests optimization
+
 ## Skills
 
 - Knowledge of modern frontend tech stack: HTML, CSS, JavaScript, JS frameworks, type systems, package management, module bundling, unit, and integration testing, browser capabilities, etc
