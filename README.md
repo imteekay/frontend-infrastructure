@@ -79,11 +79,14 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Skills
 
-- Knowledge of modern frontend tech stack: HTML, CSS, JavaScript, JS frameworks, type systems, package management, module bundling, unit, and integration testing, browser capabilities, etc
-- Experience with deployment automation tools: Jenkins, AWS Codepipeline, TravisCI, CircleCI, etc and/or Shell/Bash script
-- Experience with developing reusable UI components, and implementing WCAG (Web Content Accessibility Guidelines)
-- Deep understanding of web bundlers and its surrounding technologies (plugins, compiler hooks)
-- Thinks deeply about systems — their edge cases, failure modes, and lifecycles
+- Knowledge/Deep understanding of modern frontend tech stack: HTML, CSS, JavaScript (ECMAScript), JS frameworks, type systems, package management, module bundling, unit and integration testing, browser capabilities.
+- Knowledge/Deep understanding of validation (CI) and deployment (CD) automation tools: Jenkins, AWS CodePipeline, TravisCI, CircleCI, DroneCI, etc and/or Shell/Bash script.
+- Knowledge/Deep understanding of reusable UI components: implementing WCAG (Web Content Accessibility Guidelines) and consistent design principles.
+- Knowledge/Deep understanding of web bundlers and its surrounding technologies (modules, plugins, compiler hooks, loaders, etc).
+- Knowledge/Deep understanding of systems and scalability: their edge cases, failure modes, and lifecycles.
+- Knowledge/Deep understanding of web performance: metrics, tools, optimizations, architecture.
+- Knowledge/Deep understanding of developer experience: metrics, tools, strategies, mindset.
+- Knowledge/Deep understanding of frontend architecture: frontend layers — presentation, application, domain, infrastructure.
 
 ## Resources
 
