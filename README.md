@@ -173,6 +173,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [A different approach to frontend architecture](https://dev.to/huytaquoc/a-different-approach-to-frontend-architecture-38d4)
 - [Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance)
 - [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
+- [System Design Architectures](https://www.youtube.com/c/FrontEndEngineer/videos)
 
 **CI/CD**
 
