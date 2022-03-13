@@ -174,6 +174,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance)
 - [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
 - [System Design Architectures](https://www.youtube.com/c/FrontEndEngineer/videos)
+- [Building a Scalable and Modular Architecture for React-TS Applications](https://levelup.gitconnected.com/building-a-scalable-and-modular-architecture-for-react-ts-applications-e1d917250e04)
 
 **CI/CD**
 
