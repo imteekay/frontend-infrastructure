@@ -171,6 +171,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 **Frontend Architecture**
 
 - [A different approach to frontend architecture](https://dev.to/huytaquoc/a-different-approach-to-frontend-architecture-38d4)
+- [Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance)
 
 **CI/CD**
 
