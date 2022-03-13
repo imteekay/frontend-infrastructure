@@ -183,6 +183,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Keeping Developers Happy with a Fast CI](https://shopify.engineering/faster-shopify-ci)
 - [Spark Joy by Running Fewer Tests](https://shopify.engineering/spark-joy-by-running-fewer-tests)
 - [Test Budget: Time Constrained CI Feedback](https://shopify.engineering/test-budget-time-constrained-ci-feedback)
+- [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 1): The CI](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-1-8444001fadc)
 
 ## Tools
 
