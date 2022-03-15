@@ -78,11 +78,14 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Skills
 
-- Knowledge of modern frontend tech stack: HTML, CSS, JavaScript, JS frameworks, type systems, package management, module bundling, unit, and integration testing, browser capabilities, etc
-- Experience with deployment automation tools: Jenkins, AWS Codepipeline, TravisCI, CircleCI, etc and/or Shell/Bash script
-- Experience with developing reusable UI components, and implementing WCAG (Web Content Accessibility Guidelines)
-- Deep understanding of web bundlers and its surrounding technologies (plugins, compiler hooks)
-- Thinks deeply about systems — their edge cases, failure modes, and lifecycles
+- Knowledge/Deep understanding of modern frontend tech stack: HTML, CSS, JavaScript (ECMAScript), JS frameworks, type systems, package management, module bundling, unit and integration testing, browser capabilities.
+- Knowledge/Deep understanding of validation (CI) and deployment (CD) automation tools: Jenkins, AWS CodePipeline, TravisCI, CircleCI, DroneCI, etc and/or Shell/Bash script.
+- Knowledge/Deep understanding of reusable UI components: implementing WCAG (Web Content Accessibility Guidelines) and consistent design principles.
+- Knowledge/Deep understanding of web bundlers and its surrounding technologies (modules, plugins, compiler hooks, loaders, etc).
+- Knowledge/Deep understanding of systems and scalability: their edge cases, failure modes, and lifecycles.
+- Knowledge/Deep understanding of web performance: metrics, tools, optimizations, architecture.
+- Knowledge/Deep understanding of developer experience: metrics, tools, strategies, mindset.
+- Knowledge/Deep understanding of frontend architecture: frontend layers — presentation, application, domain, infrastructure.
 
 ## Resources
 
@@ -167,12 +170,21 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 **Frontend Architecture**
 
 - [A different approach to frontend architecture](https://dev.to/huytaquoc/a-different-approach-to-frontend-architecture-38d4)
+- [Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance)
+- [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
+- [System Design Architectures](https://www.youtube.com/c/FrontEndEngineer/videos)
+- [Building a Scalable and Modular Architecture for React-TS Applications](https://levelup.gitconnected.com/building-a-scalable-and-modular-architecture-for-react-ts-applications-e1d917250e04)
+- [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
+- [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 
 **CI/CD**
 
 - [Keeping Developers Happy with a Fast CI](https://shopify.engineering/faster-shopify-ci)
 - [Spark Joy by Running Fewer Tests](https://shopify.engineering/spark-joy-by-running-fewer-tests)
 - [Test Budget: Time Constrained CI Feedback](https://shopify.engineering/test-budget-time-constrained-ci-feedback)
+- [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 1): The CI](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-1-8444001fadc)
+- [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 2): The CD](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-2-d51875bd0e65)
+- [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 3)](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-3-9a6be231d14)
 
 ## Tools
 
