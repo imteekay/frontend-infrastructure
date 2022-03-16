@@ -186,6 +186,12 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 2): The CD](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-2-d51875bd0e65)
 - [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 3)](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-3-9a6be231d14)
 
+**Tests: unit, integration, e2e**
+
+- [Front-end Testing Strategy](https://itnext.io/front-end-testing-strategy-5fddfd463feb)
+- [Common Testing Mistakes](https://kentcdodds.com/blog/common-testing-mistakes)
+- [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&ab_channel=OKG%21-PaulDowman%27stecheventsandinterviews)
+
 ## Tools
 
 **Bundlers**
