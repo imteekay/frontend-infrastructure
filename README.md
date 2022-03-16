@@ -127,6 +127,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Module bundling](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)
 - [Webpack — The Confusing Parts](https://rajaraodv.medium.com/webpack-the-confusing-parts-58712f8fcad9)
 - [Webpack loaders vs plugins: what's the difference?](https://stackoverflow.com/a/46176755/3159162)
+- [How To Make Tree Shakeable Libraries](https://blog.theodo.com/2021/04/library-tree-shaking)
 
 **JavaScript Spec**
 
