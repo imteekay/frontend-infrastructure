@@ -19,11 +19,11 @@ const moduleStringUnshaked = shakeItBaby.Unshaked.map((u) =>
 
 // have a look at how different they look
 console.log('------ // ------');
-console.log('bundle not optimized');
-console.log(moduleStringUnshaked);
+console.log('bundle not optimized\n');
+console.log(moduleStringUnshaked, '\n');
 
 console.log('------ // ------');
-console.log('bundle optimized');
+console.log('bundle optimized\n');
 console.log(moduleStringOptimized);
 
 // let's count the characters
