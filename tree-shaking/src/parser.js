@@ -16,11 +16,13 @@ export class Parser {
     // bind bc no transform plugin
     this.followImportSources = this.followImportSources.bind(this);
   }
+
   // pull in the path and parse its content
   parseModule(relPath) {
     const codeBuffer = fs.readFileSync(__dirname + relPath);
     return esprima.parseModule(codeBuffer.toString());
   }
+
   // traverse the tree of module
   // look for ImportDeclaration type
   // follow imports recursively
@@ -40,6 +42,7 @@ export class Parser {
     );
     return this.importedVals;
   }
+
   // define the function to follow import sources
   // either push the module name into the Modules Map
   // or don't do anything
@@ -55,6 +58,7 @@ export class Parser {
         })()
       : undefined;
   }
+
   // traverse the AST and do whatever
   //extractImports function told us to do
   traverseSyntaxTree({
@@ -74,6 +78,7 @@ export class Parser {
     });
     return extractedNodes;
   }
+
   // either return importedVals if we had them already
   // or trigger the extractImports fn
   get Imports() {

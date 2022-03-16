@@ -3,10 +3,10 @@ export class TreeShaker {
   // shake the modules when initializing
   constructor({ Imports, modulesSet }) {
     this.unshaked = modulesSet;
-    this.modules = TreeShaker.shake(modulesSet, Imports);
+    this.modules = this.shake(modulesSet, Imports);
   }
-  // do static because... well 🤷🏻‍
-  static shake(modules, importedVals) {
+
+  shake(modules, importedVals) {
     // get all the values from the module map defined in Parser
     // and turn them into an array
     // btw make a copy of modules otherwise
@@ -34,13 +34,5 @@ export class TreeShaker {
       module.body = shakedBody;
       return module;
     });
-  }
-  // make the original modules accessible
-  get Unshaked() {
-    return this.unshaked;
-  }
-  // and the optimized modules are of course accessible as well
-  get Modules() {
-    return this.modules;
   }
 }
