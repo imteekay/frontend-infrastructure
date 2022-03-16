@@ -204,6 +204,13 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Airtable’s TypeScript Migration Codemod](https://github.com/Airtable/typescript-migration-codemod)
 - [ECMAScript 5 to ECMAScript 6 Codemod](https://github.com/5to6/5to6-codemod)
 
+**Test Frameworks**
+
+- [vitest](https://vitest.dev)
+- [jest](https://jestjs.io)
+- [testing-library](https://testing-library.com)
+- [cypress](https://www.cypress.io)
+
 ## Jobs
 
 - [Airbnb - Frontend Infrastructure Engineer, Web Platform](pdfs/jobs/airbnb-senior-frontend-infrastructure-engineer-web-platform.pdf)
