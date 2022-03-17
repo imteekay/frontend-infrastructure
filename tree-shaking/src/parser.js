@@ -59,12 +59,12 @@ export class Parser {
     const { body } = AST;
     const extractedNodes = [];
 
-    body.forEach((node) => {
+    for (const node of body) {
       if (IMPORT_DECLARATION_NODE === node.type) {
         extractedNodes.push(...extractor(node));
         followImportSources(node);
       }
-    });
+    }
 
     return extractedNodes;
   }
