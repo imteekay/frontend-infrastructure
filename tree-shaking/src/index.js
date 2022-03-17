@@ -7,7 +7,7 @@ const modules = parser.parse();
 const treeShaker = new TreeShaker(modules);
 
 function generateBundleString(modules, generateCode) {
-  return modules.map((module) => generateCode(module)).join('');
+  return modules.map(generateCode).join('');
 }
 
 function calculateOptimization(optimizedBundle, bundle) {
