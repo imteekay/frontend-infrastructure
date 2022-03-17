@@ -55,7 +55,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Bundlers
   - [minibundler](minibundler)
   - [bundler](bundler)
-  - Tree Shaking
+  - [Tree Shaking](tree-shaking)
   - Plugin System
   - Loader System
 - Bundlers Experiments
