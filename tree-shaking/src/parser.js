@@ -24,8 +24,8 @@ export class Parser {
     return { allModules: this.allModules, importedModules: modules };
   }
 
-  extractImports(module) {
-    const ast = this.parseModule(`/modules/${module}.js`);
+  extractImports(module, parsedModule) {
+    const ast = parsedModule || this.parseModule(`/modules/${module}.js`);
     const followImportSources = this.followImportSources;
     const extractedImports = this.traverseSyntaxTree({
       ast,
@@ -49,10 +49,11 @@ export class Parser {
     const importedModule = source.value.replace('./', '');
 
     if (importedModule.length) {
-      this.extractImports(importedModule);
+      const ast = this.parseModule(`/modules/${importedModule}.js`);
+      this.extractImports(importedModule, ast);
       this.allModules.push({
         name: importedModule,
-        module: this.parseModule(`/modules/${importedModule}.js`),
+        module: ast,
       });
     }
   }
