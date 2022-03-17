@@ -25,15 +25,16 @@ export class Parser {
   }
 
   extractImports(module) {
+    const ast = this.parseModule(`/modules/${module}.js`);
+    const followImportSources = this.followImportSources;
     const extractedImports = this.traverseSyntaxTree({
-      AST: this.parseModule(`/modules/${module}.js`),
-      followImportSources: this.followImportSources,
-      extractor: (node) => node.specifiers.map((val) => val.imported.name),
+      ast,
+      followImportSources,
     });
 
-    extractedImports.forEach((imp) =>
-      this.importedModules.set(imp, imp.toString()),
-    );
+    for (const importedModule of extractedImports) {
+      this.importedModules.set(importedModule, importedModule);
+    }
 
     return this.importedModules;
   }
@@ -55,17 +56,21 @@ export class Parser {
     }
   }
 
-  traverseSyntaxTree({ AST, extractor, followImportSources }) {
-    const { body } = AST;
+  traverseSyntaxTree({ ast, followImportSources }) {
+    const { body } = ast;
     const extractedNodes = [];
 
     for (const node of body) {
       if (IMPORT_DECLARATION_NODE === node.type) {
-        extractedNodes.push(...extractor(node));
+        extractedNodes.push(...this.extractor(node));
         followImportSources(node);
       }
     }
 
     return extractedNodes;
+  }
+
+  extractor(node) {
+    return node.specifiers.map((val) => val.imported.name);
   }
 }
