@@ -6,18 +6,20 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const IMPORT_DECLARATION_NODE = 'ImportDeclaration';
+
 export class Parser {
   constructor(entryModule) {
     this.importedModules = new Map();
     this.allModules = [];
-    this.module = entryModule;
+    this.entryModule = entryModule;
     this.followImportSources = this.followImportSources.bind(this);
   }
 
   parse() {
     const modules = this.importedModules.size
       ? this.importedModules
-      : this.extractImports(this.module);
+      : this.extractImports(this.entryModule);
 
     return { allModules: this.allModules, importedModules: modules };
   }
@@ -25,8 +27,7 @@ export class Parser {
   extractImports(module) {
     const extractedImports = this.traverseSyntaxTree({
       AST: this.parseModule(`/modules/${module}.js`),
-      extractType: 'ImportDeclaration',
-      recursiveCaller: this.followImportSources,
+      followImportSources: this.followImportSources,
       extractor: (node) => node.specifiers.map((val) => val.imported.name),
     });
 
@@ -54,15 +55,14 @@ export class Parser {
     }
   }
 
-  traverseSyntaxTree({ AST, extractType, extractor, recursiveCaller }) {
+  traverseSyntaxTree({ AST, extractor, followImportSources }) {
     const { body } = AST;
     const extractedNodes = [];
 
     body.forEach((node) => {
-      if (extractType === node.type) {
-        const extractedVals = extractor(node);
-        extractedNodes.push(...extractedVals);
-        recursiveCaller(node);
+      if (IMPORT_DECLARATION_NODE === node.type) {
+        extractedNodes.push(...extractor(node));
+        followImportSources(node);
       }
     });
 
