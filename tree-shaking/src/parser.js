@@ -39,9 +39,10 @@ export class Parser {
     return this.importedModules;
   }
 
-  parseModule(relPath) {
-    const codeBuffer = fs.readFileSync(__dirname + relPath);
-    return esprima.parseModule(codeBuffer.toString());
+  parseModule(relativePath) {
+    return esprima.parseModule(
+      fs.readFileSync(__dirname + relativePath, 'utf8'),
+    );
   }
 
   followImportSources({ source }) {
@@ -56,13 +57,12 @@ export class Parser {
     }
   }
 
-  traverseSyntaxTree({ ast, followImportSources }) {
-    const { body } = ast;
+  traverseSyntaxTree({ ast: { body }, followImportSources }) {
     const extractedNodes = [];
 
     for (const node of body) {
       if (IMPORT_DECLARATION_NODE === node.type) {
-        extractedNodes.push(...this.extractor(node));
+        extractedNodes.push(...this.extractImportNodeName(node));
         followImportSources(node);
       }
     }
@@ -70,7 +70,7 @@ export class Parser {
     return extractedNodes;
   }
 
-  extractor(node) {
-    return node.specifiers.map((val) => val.imported.name);
+  extractImportNodeName(node) {
+    return node.specifiers.map((specifier) => specifier.imported.name);
   }
 }
