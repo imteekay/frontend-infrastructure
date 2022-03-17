@@ -1,12 +1,12 @@
 export class TreeShaker {
   constructor({ importedModules, allModules }) {
-    this.unshaked = allModules;
+    this.allModules = allModules;
     this.importedModules = importedModules;
     this.modules = this.shake();
   }
 
   shake() {
-    return Object.values(this.unshaked).map(({ module }) => {
+    return Object.values(this.allModules).map(({ module }) => {
       const moduleCopy = { ...module };
       const { body } = moduleCopy;
       const shakedBody = [];

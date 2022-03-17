@@ -18,7 +18,7 @@ const optimizedBundle = generateBundleString(treeShaker.modules, (module) =>
   escodegen.generate(module),
 );
 
-const bundle = generateBundleString(treeShaker.unshaked, (module) =>
+const bundle = generateBundleString(treeShaker.allModules, (module) =>
   escodegen.generate(module.module),
 );
 
