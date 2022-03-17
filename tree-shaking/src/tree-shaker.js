@@ -1,17 +1,15 @@
 export class TreeShaker {
-  // store the unshaked modules
-  // shake the modules when initializing
-  constructor({ Imports, modulesSet }) {
-    this.unshaked = modulesSet;
-    this.modules = this.shake(modulesSet, Imports);
+  constructor({ importedModules, allModules }) {
+    this.unshaked = allModules;
+    this.modules = this.shake(allModules, importedModules);
   }
 
-  shake(modules, importedVals) {
+  shake(allModules, importedModules) {
     // get all the values from the module map defined in Parser
     // and turn them into an array
     // btw make a copy of modules otherwise
     // you won't be able to compare old vs new
-    return Array.from(modules.entries()).map(([, { module: m, name }]) => {
+    return Array.from(allModules.entries()).map(([, { module: m }]) => {
       const module = { ...m };
       const { body } = module;
       const shakedBody = [];
@@ -23,7 +21,7 @@ export class TreeShaker {
       body.forEach((node) => {
         if (node.type === 'ExportNamedDeclaration') {
           node.declaration.declarations.forEach(({ id }) => {
-            if (importedVals.has(id.name)) {
+            if (importedModules.has(id.name)) {
               shakedBody.push(node);
             }
           });
