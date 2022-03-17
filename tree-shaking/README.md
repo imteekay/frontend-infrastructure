@@ -21,7 +21,7 @@ yarn dev
 When the value is defined but not used anywhere.
 
 - not exported and not imported
-- not exported ad not used in the file/module
+- not exported and not used in the file/module
 
 ### Unreachable
 
