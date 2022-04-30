@@ -69,6 +69,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - TypeScript
   - [Simple Types](https://github.com/imteekay/thinking-in-types)
   - [Advanced Types](https://github.com/imteekay/advanced-typescript)
+  - [Programming with Types](https://github.com/imteekay/programming-with-types)
 
 **CI — Continuous Integration**
 
