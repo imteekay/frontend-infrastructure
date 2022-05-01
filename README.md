@@ -179,6 +179,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Building a Scalable and Modular Architecture for React-TS Applications](https://levelup.gitconnected.com/building-a-scalable-and-modular-architecture-for-react-ts-applications-e1d917250e04)
 - [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
+- [Frontend Problems](https://bigfrontend.dev)
 
 **CI/CD**
 
