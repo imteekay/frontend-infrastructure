@@ -180,6 +180,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Frontend Architecture at Scale for Large Organizations](https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd)
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 - [Frontend Problems](https://bigfrontend.dev)
+- [Breaking Down Hydration](https://www.youtube.com/watch?v=iR5T2HefqKk)
 
 **CI/CD**
 
