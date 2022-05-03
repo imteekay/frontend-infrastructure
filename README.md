@@ -197,6 +197,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Common Testing Mistakes](https://kentcdodds.com/blog/common-testing-mistakes)
 - [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&ab_channel=OKG%21-PaulDowman%27stecheventsandinterviews)
 
+**Static Analysis & Code Format**
+
+- [Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues)
+
 ## Tools
 
 **Bundlers**
