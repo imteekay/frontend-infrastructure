@@ -201,6 +201,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 **Static Analysis & Code Format**
 
 - [Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues)
+- [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint)
 
 ## Tools
 
