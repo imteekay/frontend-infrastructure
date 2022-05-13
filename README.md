@@ -183,6 +183,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 - [Frontend Problems](https://bigfrontend.dev)
 - [Breaking Down Hydration](https://www.youtube.com/watch?v=iR5T2HefqKk)
+- [Continuations, coroutines, fibers, effects in React](https://medium.com/yld-blog/continuations-coroutines-fibers-effects-e163dda9dedc)
 
 **CI/CD**
 
