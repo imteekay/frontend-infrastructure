@@ -137,6 +137,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Future Javascript: Javascript Pipeline Operators](https://dev.to/smpnjn/future-javascript-javascript-pipeline-operators-5jj)
 - [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
 
+**JavaScript**
+
+- [Continuation-passing style in JavaScript](https://matt.might.net/articles/by-example-continuation-passing-style)
+
 **TypeScript**
 
 - [A Mental Model to Think in TypeScript](https://www.iamtk.co/a-mental-model-to-think-in-typescript)
