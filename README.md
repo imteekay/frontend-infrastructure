@@ -146,6 +146,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [A Mental Model to Think in TypeScript](https://www.iamtk.co/a-mental-model-to-think-in-typescript)
 - [Advanced TypeScript Concepts](https://github.com/imteekay/advanced-typescript)
 - [TypeScript Performance](https://github.com/microsoft/TypeScript/wiki/Performance)
+- [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
+- [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 
 **Infrastructure for migrations and adoption**
 
