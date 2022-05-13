@@ -158,6 +158,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [The Case for Frontend Infrastructure](https://tech.smartling.com/the-case-for-front-end-infrastructure-15a2a9a203da)
 - [What is Platform Engineering](https://medium.com/@nodefortytwo/what-is-platform-engineering-a6e8bff1d9c6)
 - [Modelling Developer Infrastructure Teams](https://shopify.engineering/modelling-developer-infrastructure-teams)
+- [Platform patterns](https://www.dballona.com/platform-patterns-consolidation)
 
 **Developer Experience**
 
