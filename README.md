@@ -130,6 +130,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Webpack loaders vs plugins: what's the difference?](https://stackoverflow.com/a/46176755/3159162)
 - [How To Make Tree Shakeable Libraries](https://blog.theodo.com/2021/04/library-tree-shaking)
 - [Tree-shaking? Let’s implement it!](https://medium.com/punching-performance/tree-shaking-lets-implement-it-8de1c29f49e9)
+- [Monorepo & tools](https://www.youtube.com/watch?v=jUIxkryvWA0)
 
 **JavaScript Spec**
 
@@ -221,6 +222,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [swc: Rust-based platform for the Web](https://swc.rs)
 - [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
 - [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
+- [nx: Smart, Fast and Extensible Build System](https://nx.dev)
 
 **Flow -> TS codemods**
 
