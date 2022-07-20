@@ -178,7 +178,8 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Developer experience is so much more than using the product itself](https://twitter.com/Dayhaysoos/status/1491814689759797249)
 - [A guide to coding accessible developer tools](https://increment.com/development/a-guide-to-coding-accessible-developer-tools)
 - [Developer Experience: Concept and Definition](pdfs/dx/developer-experience-concept-and-definition.pdf)
-- [Maximizing Developer Effectiveness](https://abinoda.substack.com/p/maximizing-developer-effectiveness)
+- [Maximizing Developer Effectiveness: summary](https://abinoda.substack.com/p/maximizing-developer-effectiveness)
+- [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 
 **Frontend Architecture**
 
