@@ -218,6 +218,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 **Runtimes**
 
 - [The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o&ab_channel=Theo-ping%E2%80%A4gg)
+- [10 Things I Regret About Node.js - Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA&t=1014s&ab_channel=JSConf)
 
 ## Tools
 
