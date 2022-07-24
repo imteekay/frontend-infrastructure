@@ -215,6 +215,10 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues)
 - [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint)
 
+**Runtimes**
+
+- [The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o&ab_channel=Theo-ping%E2%80%A4gg)
+
 ## Tools
 
 **Bundlers**
