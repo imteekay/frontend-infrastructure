@@ -1,3 +1,5 @@
+<samp>
+
 # Scope & Closure
 
 ## Dev
@@ -252,3 +254,5 @@ anotherIncrement(); // console.log -> 3
 ```
 
 Now we have `increment` and `anotherIncrement` functions and as they have their own closure, the `counter` starts with the value 0 in both functions. If they shared the same closure, the `counter` should start with 3 in the first call of `anotherIncrement`.
+
+</samp>

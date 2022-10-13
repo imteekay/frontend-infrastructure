@@ -1,3 +1,5 @@
+<samp>
+
 # Frontend Infrastructure
 
 ## Goal
@@ -266,3 +268,5 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
+
+</samp>

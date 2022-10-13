@@ -1,3 +1,5 @@
+<samp>
+
 # Tree Shaking
 
 ## Setup
@@ -60,3 +62,5 @@ function test() {
   return a;
 }
 ```
+
+</samp>

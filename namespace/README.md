@@ -1,3 +1,5 @@
+<samp>
+
 # Namespace
 
 ## Setup
@@ -190,3 +192,5 @@ To finish this part, we should just add the script to the HTML.
 This part is pretty important. In the [JavaScript as Scripts](../javascript-as-scripts), we mentioned about how the scripts' order matter. This is no different. We need to define the `Utils` object first (by loading and executing the `utils.js`) and then we can reference this object from the global scope. `calculate.js` should be called later than the `utils.js`.
 
 Now the page has all the necessary behavior to function in the right way.
+
+</samp>

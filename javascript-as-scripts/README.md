@@ -1,3 +1,5 @@
+<samp>
+
 # Simple Scripts
 
 ## Setup
@@ -174,3 +176,5 @@ With the script tag, we had some limitations:
 - [Frontend Infrastructure: Techniques and Strategies](/series/frontend-infrastructure/techniques-and-strategies)
 - [Frontend Infrastructure: Skills](/series/frontend-infrastructure/skills)
 - [Frontend Infrastructure: Resources](/series/frontend-infrastructure/resources)
+
+</samp>
