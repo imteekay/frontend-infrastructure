@@ -1,3 +1,5 @@
+<samp>
+
 # Learn Webpack
 
 ## Setup
@@ -42,3 +44,5 @@ yarn dev
 - Webpack loaders vs plugins; what's the difference?
   - `Loaders`: works at the individual file level during or before the bundle is generated
   - `Plugins`: works at bundle level and usually work at the end of the bundle generation process
+
+</samp>

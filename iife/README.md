@@ -1,3 +1,5 @@
+<samp>
+
 # IIFE: Immediately Invoked Function Expression
 
 ## Setup
@@ -119,3 +121,5 @@ Before, the `listUsers` was exposed in the global scope but now it is an anonymo
 
 - [Grouping Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Grouping#using_the_grouping_operator)
 - [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+
+</samp>
