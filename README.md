@@ -134,6 +134,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Tree-shaking? Let’s implement it!](https://medium.com/punching-performance/tree-shaking-lets-implement-it-8de1c29f49e9)
 - [Monorepo & tools](https://www.youtube.com/watch?v=jUIxkryvWA0)
 - [Speed up your build times by 100x](https://www.jerrychang.ca/writing/next-frontier-of-frontend)
+- [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem)
 
 **JavaScript Spec**
 
