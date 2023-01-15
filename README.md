@@ -135,6 +135,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Monorepo & tools](https://www.youtube.com/watch?v=jUIxkryvWA0)
 - [Speed up your build times by 100x](https://www.jerrychang.ca/writing/next-frontier-of-frontend)
 - [Speeding up the JavaScript ecosystem - one library at a time](https://marvinh.dev/blog/speeding-up-javascript-ecosystem)
+- [Speeding up the JavaScript ecosystem - module resolution](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2)
 
 **JavaScript Spec**
 
