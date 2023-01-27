@@ -213,6 +213,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Front-end Testing Strategy](https://itnext.io/front-end-testing-strategy-5fddfd463feb)
 - [Common Testing Mistakes](https://kentcdodds.com/blog/common-testing-mistakes)
 - [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&ab_channel=OKG%21-PaulDowman%27stecheventsandinterviews)
+- [Why Is My Jest Test Suite So Slow?](https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0)
 
 **Static Analysis & Code Format**
 
