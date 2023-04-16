@@ -138,6 +138,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Speeding up the JavaScript ecosystem - module resolution](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2)
 - [Speeding up the JavaScript ecosystem - eslint](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3)
 - [Introducing Turbopack: the Turbo-charged bundler by Maia Teegarden](https://www.youtube.com/watch?v=btqdaqEHw0A)
+- [NX For MonoRepos](https://www.youtube.com/watch?v=XKivYCgCMPw)
 
 ### JavaScript Spec
 
