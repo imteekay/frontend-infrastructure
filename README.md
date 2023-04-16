@@ -238,6 +238,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
 - [nx: Smart, Fast and Extensible Build System](https://nx.dev)
 - [rspack: A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
+- [turbopack: The Rust-powered successor to Webpack](https://turbo.build/pack)
 
 ### Flow -> TS codemods
 
