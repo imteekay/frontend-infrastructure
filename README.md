@@ -237,7 +237,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [parcel: The zero configuration build tool for the web](https://github.com/parcel-bundler/parcel)
 - [snowpack: The faster frontend build tool.](https://www.snowpack.dev)
 - [nx: Smart, Fast and Extensible Build System](https://nx.dev)
-- [A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
+- [rspack: A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
 
 ### Flow -> TS codemods
 
