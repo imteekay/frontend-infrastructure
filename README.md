@@ -43,7 +43,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Studies & Research Roadmap
 
-**Module System & Bundlers**
+### Module System & Bundlers
 
 - [JavaScript as Scripts](javascript-as-scripts)
 - DIY modules
@@ -63,7 +63,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - Bundlers Experiments
   - [Webpack](webpack)
 
-**JavaScript & TypeScript**
+### JavaScript & TypeScript
 
 - ECMAScript
   - TC39 Proposals Overview
@@ -73,7 +73,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
   - [Advanced Types](https://github.com/imteekay/advanced-typescript)
   - [Programming with Types](https://github.com/imteekay/programming-with-types)
 
-**CI — Continuous Integration**
+### CI — Continuous Integration
 
 - NPM install cache
 - Build optimization
@@ -92,14 +92,14 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 ## Resources
 
-**Scope, Closure, and Execution Context**
+### Scope, Closure, and Execution Context
 
 - [MDN Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 - [Closure, Scope & Execution Context](https://www.youtube.com/watch?v=XTAzsODSCsM)
 - [A Simple Explanation of Scope in JavaScript](https://dmitripavlutin.com/javascript-scope)
 - [Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
 
-**Modules**
+### Modules
 
 - [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules](https://www.youtube.com/watch?v=qJWALEoGge4)
 - [JavaScript Modules Past & Present](https://www.youtube.com/watch?v=GQ96b_u7rGc&list=TLPQMDYwMTIwMjK_dvV037lu7)
@@ -120,7 +120,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Exploring ES6: JavaScript Modules](https://exploringjs.com/es6/ch_modules.html)
 - [What the heck are CJS, AMD, UMD, and ESM in Javascript?](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm)
 
-**Bundlers and Build Tools**
+### Bundlers and Build Tools
 
 - [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking)
 - [Improving Site Performance With Webpack Tree Shaking](https://medium.com/coursera-engineering/improving-site-performance-with-tree-shaking-491b6a7e0708)
@@ -138,17 +138,17 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Speeding up the JavaScript ecosystem - module resolution](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2)
 - [Speeding up the JavaScript ecosystem - eslint](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3)
 
-**JavaScript Spec**
+### JavaScript Spec
 
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto)
 - [Future Javascript: Javascript Pipeline Operators](https://dev.to/smpnjn/future-javascript-javascript-pipeline-operators-5jj)
 - [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
 
-**JavaScript**
+### JavaScript
 
 - [Continuation-passing style in JavaScript](https://matt.might.net/articles/by-example-continuation-passing-style)
 
-**TypeScript**
+### TypeScript
 
 - [A Mental Model to Think in TypeScript](https://www.iamtk.co/a-mental-model-to-think-in-typescript)
 - [Advanced TypeScript Concepts](https://github.com/imteekay/advanced-typescript)
@@ -156,7 +156,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 
-**Infrastructure for migrations and adoption**
+### Infrastructure for migrations and adoption
 
 - [Migrating Large TypeScript Codebases To Project References](https://shopify.engineering/migrating-large-typescript-codebases-project-references)
 - [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
@@ -164,7 +164,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [The continual evolution of Airtable’s codebase: Migrating a million lines of code to TypeScript](https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c)
 - [TypeScript vs Flow](https://github.com/niieani/typescript-vs-flowtype)
 
-**Platform/Infra teams**
+### Platform/Infra teams
 
 - [Frontend At Scale: Designing Infra For Big Teams](https://www.youtube.com/watch?v=LrfSSAET6iY)
 - [Dealing with large-scale JavaScript application infrastructure](https://www.youtube.com/watch?v=1KUdbnlgh-s)
@@ -173,7 +173,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Modelling Developer Infrastructure Teams](https://shopify.engineering/modelling-developer-infrastructure-teams)
 - [Platform patterns](https://www.dballona.com/platform-patterns-consolidation)
 
-**Developer Experience**
+### Developer Experience
 
 - [What is Developer Experience? a roundup of links and goodness](https://redmonk.com/jgovernor/2022/02/21/what-is-developer-experience-a-roundup-of-links-and-goodness)
 - [DX at Netlify](https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify)
@@ -187,7 +187,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Maximizing Developer Effectiveness: summary](https://abinoda.substack.com/p/maximizing-developer-effectiveness)
 - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 
-**Frontend Architecture**
+### Frontend Architecture
 
 - [A different approach to frontend architecture](https://dev.to/huytaquoc/a-different-approach-to-frontend-architecture-38d4)
 - [Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance)
@@ -200,7 +200,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Breaking Down Hydration](https://www.youtube.com/watch?v=iR5T2HefqKk)
 - [Continuations, coroutines, fibers, effects in React](https://medium.com/yld-blog/continuations-coroutines-fibers-effects-e163dda9dedc)
 
-**CI/CD**
+### CI/CD
 
 - [Keeping Developers Happy with a Fast CI](https://shopify.engineering/faster-shopify-ci)
 - [Spark Joy by Running Fewer Tests](https://shopify.engineering/spark-joy-by-running-fewer-tests)
@@ -209,26 +209,26 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 2): The CD](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-2-d51875bd0e65)
 - [Modern Frontend CI/CD Architecture — The Missing Guide (Part. 3)](https://medium.com/google-cloud/modern-frontend-ci-cd-architecture-the-missing-guide-part-3-9a6be231d14)
 
-**Tests: unit, integration, e2e**
+### Tests: unit, integration, e2e
 
 - [Front-end Testing Strategy](https://itnext.io/front-end-testing-strategy-5fddfd463feb)
 - [Common Testing Mistakes](https://kentcdodds.com/blog/common-testing-mistakes)
 - [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&ab_channel=OKG%21-PaulDowman%27stecheventsandinterviews)
 - [Why Is My Jest Test Suite So Slow?](https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0)
 
-**Static Analysis & Code Format**
+### Static Analysis & Code Format
 
 - [Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues)
 - [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint)
 
-**Runtimes**
+### Runtimes
 
 - [The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o&ab_channel=Theo-ping%E2%80%A4gg)
 - [10 Things I Regret About Node.js - Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA&t=1014s&ab_channel=JSConf)
 
 ## Tools
 
-**Bundlers**
+### Bundlers
 
 - [vite: Next Generation Frontend Tooling](https://github.com/vitejs/vite)
 - [esbuild: an extremely fast JavaScript bundler](https://github.com/evanw/esbuild)
@@ -239,18 +239,18 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [nx: Smart, Fast and Extensible Build System](https://nx.dev)
 - [A fast Rust-based web bundler 🦀️](https://github.com/web-infra-dev/rspack)
 
-**Flow -> TS codemods**
+### Flow -> TS codemods
 
 - [babel-plugin-flow-to-typescript](https://github.com/Kiikurage/babel-plugin-flow-to-typescript)
 - [flow-to-ts](https://github.com/Khan/flow-to-ts)
 - [Airtable’s TypeScript Migration Codemod](https://github.com/Airtable/typescript-migration-codemod)
 - [ECMAScript 5 to ECMAScript 6 Codemod](https://github.com/5to6/5to6-codemod)
 
-**Static Analysis & Code Format**
+### Static Analysis & Code Format
 
 - [dprint-plugin-prettier](https://github.com/dprint/dprint-plugin-prettier)
 
-**Test Frameworks**
+### Test Frameworks
 
 - [vitest](https://vitest.dev)
 - [jest](https://jestjs.io)
