@@ -216,6 +216,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Common Testing Mistakes](https://kentcdodds.com/blog/common-testing-mistakes)
 - [Establishing testing patterns with software design principles](https://www.youtube.com/watch?v=_pnW-JjmyXE&ab_channel=OKG%21-PaulDowman%27stecheventsandinterviews)
 - [Why Is My Jest Test Suite So Slow?](https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0)
+- [Jest to Vitest Migration Guide](https://vitest.dev/guide/migration.html)
 
 ### Static Analysis & Code Format
 
