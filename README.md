@@ -119,6 +119,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Publish ESM and CJS in a single package](https://antfu.me/posts/publish-esm-and-cjs)
 - [Exploring ES6: JavaScript Modules](https://exploringjs.com/es6/ch_modules.html)
 - [What the heck are CJS, AMD, UMD, and ESM in Javascript?](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm)
+- [CommonJS is not going away](https://bun.sh/blog/commonjs-is-not-going-away)
 
 ### Bundlers and Build Tools
 
