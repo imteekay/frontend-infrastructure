@@ -121,6 +121,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [What the heck are CJS, AMD, UMD, and ESM in Javascript?](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm)
 - [CommonJS is not going away](https://bun.sh/blog/commonjs-is-not-going-away)
 - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
+- [Modules in TypeScript](https://gist.github.com/andrewbranch/79f872a8b9f0507c9c5f2641cfb3efa6)
 
 ### Bundlers and Build Tools
 
