@@ -149,6 +149,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto)
 - [Future Javascript: Javascript Pipeline Operators](https://dev.to/smpnjn/future-javascript-javascript-pipeline-operators-5jj)
 - [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
+- [TC39 Chat: Observables](https://www.youtube.com/watch?v=s4Y_WLcGmxg&ab_channel=AngularNation)
 
 ### JavaScript
 
