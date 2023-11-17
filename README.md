@@ -235,6 +235,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o&ab_channel=Theo-ping%E2%80%A4gg)
 - [10 Things I Regret About Node.js - Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA&t=1014s&ab_channel=JSConf)
 - ["What's next for Deno?" by Ryan Dahl](https://www.youtube.com/watch?v=LVEGRj3RZSA&ab_channel=Deno)
+- [🎥 JavaScript and C++ in Node.js core](https://www.youtube.com/watch?v=GrgMT5zMgF4&ab_channel=NearForm)
 
 ## Tools
 
