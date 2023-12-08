@@ -1,5 +1,5 @@
 {
-  "name": "build-tools",
+  "name": "frontend-infrastructure",
   "scripts": {
     "dev:scripts": "http-server javascript-as-scripts --port 3001",
     "dev:iife": "http-server iife --port 3002",
