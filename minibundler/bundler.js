@@ -77,9 +77,7 @@ function bundle(graph) {
         }
 
         const module = { exports: {} };
-
         fn(localRequire, module, module.exports);
-
         return module.exports;
       }
 
