@@ -229,6 +229,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 
 - [Why typescript-eslint Performance is Slow](https://duncanleung.com/why-slow-plugin-typescript-eslint-performance-issues)
 - [Speeding up Prettier locally and on your CI with dprint](https://david.deno.dev/posts/faster-prettier-with-dprint)
+- [Rust-Based JavaScript Linters: Fast, But No Typed Linting Right Now](https://www.joshuakgoldberg.com/blog/rust-based-javascript-linters-fast-but-no-typed-linting-right-now)
 
 ### Runtimes
 
