@@ -224,6 +224,7 @@ Frontend infrastructure teams empower product teams with the foundational fronte
 - [Why Is My Jest Test Suite So Slow?](https://blog.bitsrc.io/why-is-my-jest-suite-so-slow-2a4859bb9ac0)
 - [Jest to Vitest Migration Guide](https://vitest.dev/guide/migration.html)
 - [Vitest with React Testing Library](https://www.robinwieruch.de/vitest-react-testing-library)
+- [Improving our Jest execution time by 300%](https://www.camggould.com/posts/Jest-With-RTL-Is-Slow)
 
 ### Static Analysis & Code Format
 
